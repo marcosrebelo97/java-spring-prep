@@ -19,7 +19,7 @@ public class Product {
     private Double price;
 
     @ManyToOne
-    @JoinColumn(name = "tb_department")
+    @JoinColumn(name = "department_id")
     private Department department;
 
     public Product() {
