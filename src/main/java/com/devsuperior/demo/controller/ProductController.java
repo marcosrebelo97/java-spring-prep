@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devsuperior.demo.entities.Department;
 import com.devsuperior.demo.entities.Product;
 import com.devsuperior.demo.repositories.ProductRepository;
 
