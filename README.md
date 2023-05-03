@@ -5,7 +5,7 @@
     - Descrição: disponibilizar endpoint `/products` para por meio do qual pode-se obter uma lista de produtos com suas respectivas categorias. Os produtos foram instanciados *hard code* mesmo, apenas como exemplo. 
   
 #### Parte 2: 
-  - ORM com Java e Spring Boot
+  - Banco de Dados Relacional com Java e Spring Boot
     - Mapeamento Objeto Relacional
     - Banco de dados relacional: H2
     - Seed da base de dados
