@@ -4,4 +4,8 @@
   - Estudo de caso: API Rest com Java e Spring Boot
   - Descrição: disponibilizar endpoint `/products` para por meio do qual pode-se obter uma lista de produtos com suas respectivas categorias. Os produtos foram instanciados *hard code* mesmo, apenas como exemplo. 
   
-  ![image](https://user-images.githubusercontent.com/37541973/236011471-8b1ab385-3894-4ad5-af97-2ae18bb272eb.png)
+  ![image](https://user-images.githubusercontent.com/37541973/236012230-bd14021d-d87e-4872-af9e-ce2ba04e27ec.png)
+  
+  - Resultado: 
+  
+     ![json](https://user-images.githubusercontent.com/37541973/236013101-0a99a79c-4bc0-4ecd-bb18-186d3a059c13.png)
