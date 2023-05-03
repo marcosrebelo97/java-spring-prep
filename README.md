@@ -7,5 +7,5 @@
 #### Parte 2: 
   - Banco de Dados Relacional com Java e Spring Boot
     - Mapeamento Objeto Relacional
-    - Banco de dados relacional: H2
+    - Banco de dados: H2
     - Seed da base de dados
